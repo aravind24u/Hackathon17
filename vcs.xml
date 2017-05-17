@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/aravind24u/Hackathon17.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/droiddeveloper1/android-wear-gestures-recognition.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
